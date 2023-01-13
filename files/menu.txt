@@ -1,0 +1,25 @@
+01;appetiser;Nachos;5€
+02;firstcourse;Grilled Chicken Salad;7€
+03;maincourse;Grilled meat;11€
+04;dessert;Alcitrones;5€
+05;drink;Horchata;2.50€
+06;appetiser;Salmon Canapes with Vodka;5€
+07;firstcourse;Cob Salad;6€
+08;maincourse;Chuco Chicken;10€
+09;dessert;Rosquillas In Honey;5€
+10;drink;Agua;2€
+11;appetiser;Mini Fish Tacos;7€
+12;firstcourse;Chicken Creole Soup;9€
+13;maincourse;Pork Tenderloin;11€
+14;dessert;Three Milks Cake;8€
+15;drink;Passion Fruit;4€
+16;appetiser;cucumber wraps;5€
+17;firstcourse;Tostones;8€
+18;maincourse;Tilapia Fillet;12€
+19;dessert;Torrejas In Milk;7€
+20;drink;Gaseosas;2€
+21;appetiser;Tequeños;7€
+22;firstcourse;Beef Quesadilla;8€
+23;maincourse;Beef Fajitas;12€
+24;dessert;Jelly With Fruits;7€
+25;drink;Cold Tea;1.50€

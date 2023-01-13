@@ -1,0 +1,10 @@
+01;appetiser;Nachos With Guacamole
+02;firstcourse;Grilled Chicken Salad
+03;maincourse;Grilled meat
+04;dessert;Alcitrones
+05;drink;Horchata
+06;appetiser;Garlic Bread
+07;firstcourse;Green salad
+08;maincourse;Churrasco
+09;dessert;Flan
+10;drink;Blackberry Juice

@@ -1,0 +1,166 @@
+/*
+=====
+Menú
+=====
+*/
+
+#topbar ul {
+    background-color: antiquewhite;
+    width: auto;
+}
+#topbar ul li {
+    display: inline;
+    text-decoration: none;
+    color: darkblue;
+}
+#topbar ul li a {
+    text-decoration: none;
+    background-color: lightgray;
+}
+#topbar ul * :hover {
+    background-color: burlywood;
+    color: whitesmoke;
+}
+
+
+footer {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding: 15px;
+    
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #777;
+    text-align: center;
+}
+
+
+.btn {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+    align-items: left;
+}
+
+.div-menu {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+/*
+=====
+logo
+=====
+*/
+.logo a img{
+    max-height: 5rem;
+    max-width:  12rem;
+}
+
+
+/*
+=====
+Index
+=====
+*/
+
+.fondo {
+    background-image: url("../images/grill-02.jpg");
+    
+  }
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 60px;
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    
+}
+
+.container-p {
+    margin-top: 15%;
+    text-align: center;
+    background-color: white;
+    color: black;
+    width: 50%;
+    font-size: large;
+    padding: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*
+=====
+General Form
+=====
+*/
+h2{
+    text-align: center;
+    color: white;
+}
+
+.form-container {
+    margin: 0 25% 25%;
+    height: 80%;
+    display: flow-root;
+    align-items: center;
+    justify-content: center;
+  }
+
+  fieldset {
+    background-color: #201f1f;
+    border-radius: 3px;
+    margin: 10px;
+  }
+
+.div-fielset{
+    padding: 30px;
+}
+  label {
+    color: #f2f2f2;
+    padding: 5px 10px 10px 10px;
+  }
+  
+  
+  input {
+    margin: 6px;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 15px;
+    color: black;
+  }
+
+/*
+=====
+Error
+=====
+*/
+
+.div_error {
+    margin-top: 30px;
+    font-size: 15px;
+    font-style: italic;
+    color: red;
+}
+
+.welcome-usr-tag {
+    margin: 0;
+}
